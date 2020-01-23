@@ -6,3 +6,5 @@ his bug, but couldn't figure it out
 
 Unfortunately he had to start from the beginning and rewrite all his code. If
 only he'd been using git and committing regularly!
+
+Random ending...
